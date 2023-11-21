@@ -68,3 +68,12 @@ _You can access the mongo-express under localhost:8080 from your browser_
     docker build -t my-app:1.0 .       
     
 The dot "." at the end of the command denotes location of the Dockerfile.
+
+## Project Overview
+
+This project is associated with a YouTube video that provides a detailed walkthrough of the docker in general. You can watch the video [here](https://www.youtube.com/watch?v=3c-iBn73dDE&t=1926s). The coding for this project was carried out while following the instructions provided in the video.
+
+## YouTube Video Link
+
+[Watch the YouTube video](https://www.youtube.com/watch?v=3c-iBn73dDE&t=1926s)
+
