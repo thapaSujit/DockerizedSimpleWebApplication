@@ -77,7 +77,7 @@ This project is associated with a YouTube video that provides a detailed walkthr
 
 [Watch the YouTube video](https://www.youtube.com/watch?v=3c-iBn73dDE&t=1926s)
 
-## Youtube Author's GitHub Repository
+## Youtube Author's GitHub Repository(Original)
 
 The author of the YouTube video has provided a GitHub repository for the project. You can find it [here](https://gitlab.com/nanuchi/techworld-js-docker-demo-app/-/tree/master#demo-app-developing-with-docker).
 
