@@ -7,8 +7,9 @@ This demo app showcases a simple user profile app set up using the following com
 
 
 All components are docker-based
+
 ![Architecture](./Architecture.png)
-fgshdf dfsghsdfh
+
 ## With Docker
 
 ### To start the application
