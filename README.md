@@ -7,7 +7,7 @@ This demo app showcases a simple user profile app set up using the following com
 
 
 All components are docker-based
-![Architecture](./architecture.png)
+![Architecture](./Architecture.png)
 fgshdf dfsghsdfh
 ## With Docker
 
