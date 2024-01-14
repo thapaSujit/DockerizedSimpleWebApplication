@@ -5,8 +5,10 @@ This demo app showcases a simple user profile app set up using the following com
 - Node.js backend with the Express module
 - MongoDB for data storage
 
-All components are docker-based
 
+All components are docker-based
+![Architecture](./architecture.png)
+fgshdf dfsghsdfh
 ## With Docker
 
 ### To start the application
