@@ -1,5 +1,6 @@
 version: '3'
 services:
+# following commented code is used when deploying the app in the production environment
   # my-app:
   # image: ${docker-registry}/my-app:1.0
   # ports:
